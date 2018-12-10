@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xocs:doc content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani513.xsd" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:ce="http://www.elsevier.com/xml/ani/common"><xocs:meta>
+    <xocs:eid>2-s2.0-0000542368</xocs:eid>
+    <xocs:oeid>2-s1.0-49BY-JWK0-TWC1-C00B-00000-00</xocs:oeid>
+    <xocs:doi>10.4324/9781315820361</xocs:doi>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>608112062</xocs:pui>
+    <xocs:sdfullavail>0</xocs:sdfullavail>
+    <xocs:issn/>
+    <xocs:volume/>
+    <xocs:issue/>
+    <xocs:author-surname>TanakaMatsumi</xocs:author-surname>
+    <xocs:author-fi>J</xocs:author-fi>
+    <xocs:firstpage>81</xocs:firstpage>
+    <xocs:lastpage>89</xocs:lastpage>
+    <xocs:sort-year>2014</xocs:sort-year>
+    <xocs:sort-yyyymm>201401</xocs:sort-yyyymm>
+    <xocs:pub-year>2014</xocs:pub-year>
+    <xocs:timestamp yyyymmdd="20160212">2016-02-12T05:56:25.972274Z</xocs:timestamp>
+    <xocs:orig-load-date yyyymmdd="20120104">2012-01-04</xocs:orig-load-date>
+    <xocs:datesort>20140101</xocs:datesort>
+    <xocs:indexeddate epoch="1325678022">2012-01-04T11:53:42.000001Z</xocs:indexeddate>
+    <xocs:absavail>0</xocs:absavail>
+    <xocs:suppressdummy>no</xocs:suppressdummy>
+    <xocs:srctype>b</xocs:srctype>
+    <xocs:subjareas><xocs:subjarea>PSYC</xocs:subjarea></xocs:subjareas>
+    <xocs:srctitle>Anger Disorders Definition Diagnosis and Treatment</xocs:srctitle>
+    <xocs:countries><xocs:country>United States</xocs:country></xocs:countries>
+    <xocs:languages><xocs:language>English</xocs:language></xocs:languages>
+    <xocs:prefnameauids><xocs:prefnameauid>Tanaka-Matsumi, J.#6602465434</xocs:prefnameauid></xocs:prefnameauids>
+    <cto:doctype>ch</cto:doctype>
+    <cto:group-id>0000542368</cto:group-id>
+    <cto:unique-author seq="1"><cto:auth-initials>J.</cto:auth-initials><cto:auth-indexed-name>Tanaka-Matsumi J.</cto:auth-indexed-name><cto:auth-surname>Tanaka-Matsumi</cto:auth-surname><cto:auth-id>6602465434</cto:auth-id></cto:unique-author>
+    <cto:unique-auth-count>1</cto:unique-auth-count>
+  </xocs:meta><xocs:item><item> <ait:process-info> <ait:date-delivered day="12" month="02" timestamp="2016-02-12T00:09:55.000055+00:00" year="2016"/> <ait:date-sort day="01" month="01" year="2014"/> <ait:status stage="S300" state="update" type="core"/> </ait:process-info> <bibrecord> <item-info> <copyright type="Elsevier">Copyright 2016 Elsevier B.V., All rights reserved.</copyright> <itemidlist> <ce:doi>10.4324/9781315820361</ce:doi> <itemid idtype="PUI">608112062</itemid> <itemid idtype="CAR-ID">645164938</itemid> <itemid idtype="SNBOOK">2016069856</itemid> <itemid idtype="SCP">0000542368</itemid> <itemid idtype="SGR">0000542368</itemid> </itemidlist> <history> <date-created day="09" month="02" timestamp="BST 06:57:26" year="2016"/> </history> <dbcollection>SNBOOK</dbcollection> <dbcollection>Scopusbase</dbcollection> </item-info> <head> <citation-info> <citation-type code="ch"/> <citation-language xml:lang="eng" language="English"/> </citation-info> <citation-title> <titletext original="y" xml:lang="eng" language="English">Cross-cultural perspectives on anger</titletext> </citation-title> <author-group> <author auid="6602465434" seq="1" type="auth"> <ce:initials>J.</ce:initials> <ce:indexed-name>Tanaka-Matsumi J.</ce:indexed-name> <ce:surname>Tanaka-Matsumi</ce:surname> <ce:given-name>Junko</ce:given-name> <preferred-name> <ce:initials>J.</ce:initials> <ce:indexed-name>Tanaka-Matsumi J.</ce:indexed-name> <ce:surname>Tanaka-Matsumi</ce:surname> <ce:given-name>Junko</ce:given-name> </preferred-name> </author> <affiliation afid="60029304" country="usa"><organization>Hofstra University</organization><city>Hempstead</city><state>NY</state><postal-code>11550</postal-code><country>United States</country></affiliation> </author-group> <correspondence> <person> <ce:initials>J.</ce:initials> <ce:indexed-name>Tanaka-Matsumi J.</ce:indexed-name> <ce:surname>Tanaka-Matsumi</ce:surname> <ce:given-name>Junko</ce:given-name> </person> <affiliation country="usa"><organization>Hofstra University</organization><city>Hempstead</city><state>NY</state><postal-code>11550</postal-code><country>United States</country></affiliation> </correspondence> <source country="gbr" srcid="21100442726" type="b"> <sourcetitle>Anger Disorders: Definition, Diagnosis, and Treatment</sourcetitle> <sourcetitle-abbrev>Anger Disorders: Definition, Diagnosis, And Treatment</sourcetitle-abbrev> <translated-sourcetitle xml:lang="eng"/> <isbn length="13" type="electronic">9781315820361</isbn> <isbn length="13" type="print">9781560323525</isbn> <volisspag> <pagerange first="81" last="89"/> </volisspag> <publicationyear first="2014"/> <publicationdate> <year>2014</year> <month>01</month> <day>01</day> <date-text xfab-added="true">1 January 2014</date-text></publicationdate> <website> <ce:e-address type="email">http://www.taylorandfrancis.com/books/details/9781315820361/</ce:e-address> </website> <publisher> <publishername>Taylor and Francis</publishername> </publisher> </source> <enhancement> <classificationgroup><classifications type="ASJC"> <classification>3200</classification> </classifications><classifications type="SUBJABBR"><classification>PSYC</classification></classifications></classificationgroup> </enhancement> </head> </bibrecord> </item></xocs:item></xocs:doc>

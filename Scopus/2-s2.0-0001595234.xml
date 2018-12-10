@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xocs:doc content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani513.xsd" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:ce="http://www.elsevier.com/xml/ani/common"><xocs:meta><xocs:eid>2-s2.0-0001595234</xocs:eid><xocs:oeid>2-s1.0-49H1-VP40-TWC1-C1CD-00000-00</xocs:oeid><xocs:online-status>available</xocs:online-status><xocs:pui>602103306</xocs:pui><xocs:sdfullavail>0</xocs:sdfullavail><xocs:issn>00084042</xocs:issn><xocs:volume>64</xocs:volume><xocs:issue>7</xocs:issue><xocs:author-surname>Ratcliffe</xocs:author-surname><xocs:author-fi>C</xocs:author-fi><xocs:firstpage>1348</xocs:firstpage><xocs:lastpage>1354</xocs:lastpage><xocs:sort-year>2015</xocs:sort-year><xocs:sort-yyyymm>201501</xocs:sort-yyyymm><xocs:pub-year>2015</xocs:pub-year><xocs:timestamp yyyymmdd="20150223">2015-02-23T05:02:09.213256Z</xocs:timestamp><xocs:orig-load-date yyyymmdd="20120104">2012-01-04</xocs:orig-load-date><xocs:datesort>20150101</xocs:datesort><xocs:indexeddate epoch="1325702199">2012-01-04T18:36:39.000001Z</xocs:indexeddate><xocs:absavail>1</xocs:absavail><xocs:suppressdummy>no</xocs:suppressdummy><xocs:srctype>j</xocs:srctype><xocs:subjareas><xocs:subjarea>CHEM</xocs:subjarea><xocs:subjarea>CENG</xocs:subjarea></xocs:subjareas><xocs:srctitle>Canadian Journal of Chemistry</xocs:srctitle><xocs:countries><xocs:country>Canada</xocs:country></xocs:countries><xocs:languages><xocs:language>English</xocs:language></xocs:languages><xocs:prefnameauids><xocs:prefnameauid>Ratcliffe, C.I.#7005946708</xocs:prefnameauid><xocs:prefnameauid>Ripmeester, J.A.#7102709932</xocs:prefnameauid></xocs:prefnameauids><cto:doctype>ar</cto:doctype><cto:group-id>0001595234</cto:group-id><cto:unique-author seq="1"><cto:auth-initials>C.I.</cto:auth-initials><cto:auth-indexed-name>Ratcliffe C.I.</cto:auth-indexed-name><cto:auth-surname>Ratcliffe</cto:auth-surname><cto:auth-id>7005946708</cto:auth-id></cto:unique-author><cto:unique-author seq="2"><cto:auth-initials>J.A.</cto:auth-initials><cto:auth-indexed-name>Ripmeester J.A.</cto:auth-indexed-name><cto:auth-surname>Ripmeester</cto:auth-surname><cto:auth-id>7102709932</cto:auth-id></cto:unique-author><cto:unique-auth-count>2</cto:unique-auth-count></xocs:meta><xocs:item><item>
+<ait:process-info>
+<ait:date-delivered day="21" month="02" timestamp="2015-02-21T18:18:53.000053+00:00" year="2015"/>
+<ait:date-sort day="01" month="01" year="2015"/>
+<ait:status stage="S300" state="update" type="core"/>
+</ait:process-info>
+<bibrecord>
+<item-info>
+<copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+<itemidlist>
+<itemid idtype="PUI">602103306</itemid>
+<itemid idtype="BSTEIN">2015252609</itemid>
+<itemid idtype="CAR-ID">632467400</itemid>
+<itemid idtype="CHEM">2015601397</itemid>
+<itemid idtype="CPX">20150700508128</itemid>
+<itemid idtype="SCP">0001595234</itemid>
+<itemid idtype="SGR">0001595234</itemid>
+</itemidlist>
+<history>
+<date-created day="12" month="02" year="2015"/>
+</history>
+<dbcollection>BSTEIN</dbcollection>
+<dbcollection>CHEM</dbcollection>
+<dbcollection>CPX</dbcollection>
+<dbcollection>Scopusbase</dbcollection>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ar"/>
+<citation-language xml:lang="eng" language="English"/>
+<abstract-language xml:lang="eng" language="English"/>
+<abstract-language xml:lang="fre" language="French"/>
+</citation-info>
+<citation-title>
+<titletext original="y" xml:lang="eng" language="English">
+2H nuclear magnetic resonance studies of motions in tetramethylammonium salts: The question of methyl reorientation</titletext>
+</citation-title>
+<author-group>
+<author auid="7005946708" seq="1" type="auth">
+<ce:initials>C.I.</ce:initials>
+<ce:indexed-name>Ratcliffe C.I.</ce:indexed-name>
+<ce:surname>Ratcliffe</ce:surname>
+<ce:given-name>Christopher I.</ce:given-name>
+<preferred-name>
+<ce:initials>C.I.</ce:initials>
+<ce:indexed-name>Ratcliffe C.</ce:indexed-name>
+<ce:surname>Ratcliffe</ce:surname>
+<ce:given-name>Christopher I.</ce:given-name>
+</preferred-name>
+</author>
+<author auid="7102709932" seq="2" type="auth">
+<ce:initials>J.A.</ce:initials>
+<ce:indexed-name>Ripmeester J.A.</ce:indexed-name>
+<ce:surname>Ripmeester</ce:surname>
+<ce:given-name>John A.</ce:given-name>
+<preferred-name>
+<ce:initials>J.A.</ce:initials>
+<ce:indexed-name>Ripmeester J.</ce:indexed-name>
+<ce:surname>Ripmeester</ce:surname>
+<ce:given-name>John A.</ce:given-name>
+</preferred-name>
+</author>
+<affiliation afid="60009839" country="can" dptid="105416658"><organization>Division of Chemistry, National Research Council of Canada</organization><city>Ottawa</city><state>ON</state><postal-code>K1A 0R9</postal-code><country>Canada</country></affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>C.I.</ce:initials>
+<ce:indexed-name>Ratcliffe C.I.</ce:indexed-name>
+<ce:surname>Ratcliffe</ce:surname>
+<ce:given-name>Christopher I.</ce:given-name>
+</person>
+<affiliation country="can"><organization>Division of Chemistry, National Research Council of Canada</organization><city>Ottawa</city><state>ON</state><postal-code>K1A 0R9</postal-code><country>Canada</country></affiliation>
+</correspondence>
+<abstracts>
+<abstract original="y" xml:lang="eng">
+<ce:para>The <sup>2</sup>H nmr lineshapes of a number of tetramethylammonium salts have been studied as a function of temperature. It is shown from this and previous evidence that in certain cases the lowest temperature motions should be assigned to whole ion C'<inf>3</inf> or pseudo-isotropic motion, rather than to methyl group motions as has been assumed in previous <sup>1</sup>H nmr studies. Steric potential calculations have been used to investigate a previously suggested model of concerted partial reorientations of methyl groups.</ce:para>
+</abstract>
+</abstracts>
+<source country="can" srcid="22745" type="j">
+<sourcetitle>Canadian Journal of Chemistry</sourcetitle>
+<sourcetitle-abbrev>Can. J. Chem.</sourcetitle-abbrev>
+<translated-sourcetitle xml:lang="eng">Canadian Journal of Chemistry</translated-sourcetitle>
+<issn type="print">00084042</issn>
+<codencode>CJCHA</codencode>
+<volisspag>
+<voliss issue="7" volume="64"/>
+<pagerange first="1348" last="1354"/>
+</volisspag>
+<publicationyear first="2015"/>
+<publicationdate>
+<year>2015</year>
+<date-text xfab-added="true">2015</date-text></publicationdate>
+<website>
+<ce:e-address type="email">http://www.nrcresearchpress.com/loi/cjc</ce:e-address>
+</website>
+<publisher>
+<publishername>National Research Council of Canada</publishername>
+</publisher>
+</source>
+<enhancement>
+<descriptorgroup>
+<descriptors controlled="y" type="CCV">
+<descriptor>
+<mainterm weight="b" candidate="n">Functional groups</mainterm>
+</descriptor>
+</descriptors>
+<descriptors controlled="n" type="CFL">
+<descriptor>
+<mainterm weight="b" candidate="n">Line shape</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Methyl group</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">NMR studies</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Nuclear magnetic resonance studies</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Tetramethylammonium salts</mainterm>
+</descriptor>
+</descriptors>
+<descriptors controlled="y" type="CMH">
+<descriptor>
+<mainterm weight="b" candidate="n">Salts</mainterm>
+</descriptor>
+</descriptors>
+</descriptorgroup>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>1600</classification>
+<classification>1605</classification>
+<classification>1503</classification>
+</classifications><classifications type="SUBJABBR"><classification>CHEM</classification><classification>CENG</classification></classifications>
+<classifications type="CPXCLASS">
+<classification> <classification-code>804.1</classification-code> <classification-description>Organic Compounds</classification-description> </classification>
+</classifications>
+<classifications type="FLXCLASS">
+<classification> <classification-code>902</classification-code> <classification-description>FLUIDEX; Related Topics</classification-description> </classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</item></xocs:item></xocs:doc>

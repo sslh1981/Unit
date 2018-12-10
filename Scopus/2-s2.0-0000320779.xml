@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xocs:doc content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani513.xsd" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:ce="http://www.elsevier.com/xml/ani/common"><xocs:meta><xocs:eid>2-s2.0-0000320779</xocs:eid><xocs:oeid>2-s1.0-498K-HRB0-TWC1-C1BS-00000-00</xocs:oeid><xocs:online-status>available</xocs:online-status><xocs:pui>602103301</xocs:pui><xocs:sdfullavail>0</xocs:sdfullavail><xocs:issn>00084042</xocs:issn><xocs:volume>64</xocs:volume><xocs:issue>7</xocs:issue><xocs:author-surname>Bialski</xocs:author-surname><xocs:author-fi>A</xocs:author-fi><xocs:firstpage>1336</xocs:firstpage><xocs:lastpage>1344</xocs:lastpage><xocs:sort-year>2015</xocs:sort-year><xocs:sort-yyyymm>201501</xocs:sort-yyyymm><xocs:pub-year>2015</xocs:pub-year><xocs:timestamp yyyymmdd="20150418">2015-04-18T14:40:18.374794Z</xocs:timestamp><xocs:orig-load-date yyyymmdd="20120104">2012-01-04</xocs:orig-load-date><xocs:datesort>20150101</xocs:datesort><xocs:indexeddate epoch="1325681601">2012-01-04T12:53:21Z</xocs:indexeddate><xocs:absavail>1</xocs:absavail><xocs:suppressdummy>no</xocs:suppressdummy><xocs:srctype>j</xocs:srctype><xocs:subjareas><xocs:subjarea>CHEM</xocs:subjarea><xocs:subjarea>CENG</xocs:subjarea></xocs:subjareas><xocs:srctitle>Canadian Journal of Chemistry</xocs:srctitle><xocs:countries><xocs:country>Canada</xocs:country><xocs:country>United States</xocs:country></xocs:countries><xocs:languages><xocs:language>English</xocs:language></xocs:languages><xocs:prefnameauids><xocs:prefnameauid>Bialski, A.M.#6603108934</xocs:prefnameauid><xocs:prefnameauid>Luthe, C.E.#6603850162</xocs:prefnameauid><xocs:prefnameauid>Fong, J.L.#56506560600</xocs:prefnameauid><xocs:prefnameauid>Lewis, N.G.#7202696345</xocs:prefnameauid></xocs:prefnameauids><cto:doctype>ar</cto:doctype><cto:group-id>0000320779</cto:group-id><cto:unique-author seq="1"><cto:auth-initials>A.M.</cto:auth-initials><cto:auth-indexed-name>Bialski A.M.</cto:auth-indexed-name><cto:auth-surname>Bialski</cto:auth-surname><cto:auth-id>6603108934</cto:auth-id></cto:unique-author><cto:unique-author seq="2"><cto:auth-initials>C.E.</cto:auth-initials><cto:auth-indexed-name>Luthe C.E.</cto:auth-indexed-name><cto:auth-surname>Luthe</cto:auth-surname><cto:auth-id>6603850162</cto:auth-id></cto:unique-author><cto:unique-author seq="3"><cto:auth-initials>J.L.</cto:auth-initials><cto:auth-indexed-name>Fong J.L.</cto:auth-indexed-name><cto:auth-surname>Fong</cto:auth-surname><cto:auth-id>56506560600</cto:auth-id></cto:unique-author><cto:unique-author seq="4"><cto:auth-initials>N.G.</cto:auth-initials><cto:auth-indexed-name>Lewis N.G.</cto:auth-indexed-name><cto:auth-surname>Lewis</cto:auth-surname><cto:auth-id>7202696345</cto:auth-id></cto:unique-author><cto:unique-auth-count>4</cto:unique-auth-count></xocs:meta><xocs:item><item>
+<ait:process-info>
+<ait:date-delivered day="17" month="04" timestamp="2015-04-17T23:08:43.000043+01:00" year="2015"/>
+<ait:date-sort day="01" month="01" year="2015"/>
+<ait:status stage="S300" state="update" type="core"/>
+</ait:process-info>
+<bibrecord>
+<item-info>
+<copyright type="Elsevier">Copyright 2015 Elsevier B.V., All rights reserved.</copyright>
+<itemidlist>
+<itemid idtype="PUI">602103301</itemid>
+<itemid idtype="BSTEIN">2015252607</itemid>
+<itemid idtype="CAR-ID">632467097</itemid>
+<itemid idtype="CHEM">2015601395</itemid>
+<itemid idtype="CPX">20150700508126</itemid>
+<itemid idtype="SCP">0000320779</itemid>
+<itemid idtype="SGR">0000320779</itemid>
+</itemidlist>
+<history>
+<date-created day="27" month="02" year="2015"/>
+</history>
+<dbcollection>BSTEIN</dbcollection>
+<dbcollection>CHEM</dbcollection>
+<dbcollection>CPX</dbcollection>
+<dbcollection>Scopusbase</dbcollection>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ar"/>
+<citation-language xml:lang="eng" language="English"/>
+<abstract-language xml:lang="eng" language="English"/>
+<abstract-language xml:lang="fre" language="French"/>
+</citation-info>
+<citation-title>
+<titletext original="y" xml:lang="eng" language="English">Sulphite-promoted delignification of wood: Identification of paucidisperse lignosulphonates</titletext>
+</citation-title>
+<author-group>
+<author auid="6603108934" seq="1" type="auth">
+<ce:initials>A.M.</ce:initials>
+<ce:indexed-name>Bialski A.M.</ce:indexed-name>
+<ce:surname>Bialski</ce:surname>
+<ce:given-name>Alec M.</ce:given-name>
+<preferred-name>
+<ce:initials>A.M.</ce:initials>
+<ce:indexed-name>Bialski A.</ce:indexed-name>
+<ce:surname>Bialski</ce:surname>
+<ce:given-name>Alec M.</ce:given-name>
+</preferred-name>
+</author>
+<author auid="6603850162" seq="2" type="auth">
+<ce:initials>C.E.</ce:initials>
+<ce:indexed-name>Luthe C.E.</ce:indexed-name>
+<ce:surname>Luthe</ce:surname>
+<ce:given-name>Corinne E.</ce:given-name>
+<preferred-name>
+<ce:initials>C.E.</ce:initials>
+<ce:indexed-name>Luthe C.</ce:indexed-name>
+<ce:surname>Luthe</ce:surname>
+<ce:given-name>Corinne E.</ce:given-name>
+</preferred-name>
+</author>
+<affiliation afid="114968043" country="can"><organization>Temfibre Inc.</organization><address-part>Temiscaming, P.Q</address-part><postal-code>JOZ 3R0</postal-code><country>Canada</country></affiliation>
+</author-group>
+<author-group>
+<author auid="56506560600" seq="3" type="auth">
+<ce:initials>J.L.</ce:initials>
+<ce:indexed-name>Fong J.L.</ce:indexed-name>
+<ce:surname>Fong</ce:surname>
+<ce:given-name>Jenny L.</ce:given-name>
+<preferred-name>
+<ce:initials>J.L.</ce:initials>
+<ce:indexed-name>Fong J.</ce:indexed-name>
+<ce:surname>Fong</ce:surname>
+<ce:given-name>Jenny L.</ce:given-name>
+</preferred-name>
+</author>
+<author auid="7202696345" seq="4" type="auth">
+<ce:initials>N.G.</ce:initials>
+<ce:indexed-name>Lewis N.G.</ce:indexed-name>
+<ce:surname>Lewis</ce:surname>
+<ce:given-name>Norman G.</ce:given-name>
+<preferred-name>
+<ce:initials>N.G.</ce:initials>
+<ce:indexed-name>Lewis N.</ce:indexed-name>
+<ce:surname>Lewis</ce:surname>
+<ce:given-name>Norman G.</ce:given-name>
+</preferred-name>
+</author>
+<affiliation afid="60084389" country="can"><organization>Pulp and Paper Research Institute of Canada</organization><address-part>3420 University Street</address-part><city>Montreal, P.Q.</city><postal-code>H3A 2A7</postal-code><country>Canada</country></affiliation>
+</author-group>
+<author-group>
+<author auid="7202696345" seq="4" type="auth">
+<ce:initials>N.G.</ce:initials>
+<ce:indexed-name>Lewis N.G.</ce:indexed-name>
+<ce:surname>Lewis</ce:surname>
+<ce:given-name>Norman G.</ce:given-name>
+<preferred-name>
+<ce:initials>N.G.</ce:initials>
+<ce:indexed-name>Lewis N.</ce:indexed-name>
+<ce:surname>Lewis</ce:surname>
+<ce:given-name>Norman G.</ce:given-name>
+</preferred-name>
+</author>
+<affiliation afid="60027090" country="usa" dptid="114970391"><organization>Department of Forest Products, Virginia Polytechnic Institut, State University</organization><city>Blacksburg</city><state>VA</state><postal-code>24061</postal-code><country>United States</country></affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>N.G.</ce:initials>
+<ce:indexed-name>Lewis N.G.</ce:indexed-name>
+<ce:surname>Lewis</ce:surname>
+<ce:given-name>Norman G.</ce:given-name>
+</person>
+<affiliation country="usa"><organization>Department of Forest Products, Virginia Polytechnic Institut, State University</organization><city>Blacksburg</city><state>VA</state><postal-code>24061</postal-code><country>United States</country></affiliation>
+</correspondence>
+<abstracts>
+<abstract original="y" xml:lang="eng">
+<ce:para>Paucidisperse lignosulphonates, previously described as a distinct group of compounds called "hemilignins" (M<inf>w</inf> ∼ 2 000), were conclusively shown to be a complex mixture of monomelic (C<inf>9</inf>) sulphonic acids. Since these compounds are rapidly solubilized only during the early stages of delignification from softwoods (≤30% lignin removal), it can be concluded that they are selectively removed from the secondary wall and not from the middle lamella. This result gives chemical support to the hypothesis that morphological differences in lignin structure exist. It is proposed that the generation of monolignols and their sulphonated derivatives may occur via an α-O-aryl bond cleavage rather than β-O-aryl cleavage as previously suggested. For softwoods, several other major constituents were isolated, which may be derived from sulphonation of a β-hydroxylated form of coniferyl alcohol.</ce:para>
+</abstract>
+</abstracts>
+<source country="can" srcid="22745" type="j">
+<sourcetitle>Canadian Journal of Chemistry</sourcetitle>
+<sourcetitle-abbrev>Can. J. Chem.</sourcetitle-abbrev>
+<translated-sourcetitle xml:lang="eng">Canadian Journal of Chemistry</translated-sourcetitle>
+<issn type="print">00084042</issn>
+<codencode>CJCHA</codencode>
+<volisspag>
+<voliss issue="7" volume="64"/>
+<pagerange first="1336" last="1344"/>
+</volisspag>
+<publicationyear first="2015"/>
+<publicationdate>
+<year>2015</year>
+<date-text xfab-added="true">2015</date-text></publicationdate>
+<website>
+<ce:e-address type="email">http://www.nrcresearchpress.com/loi/cjc</ce:e-address>
+</website>
+<publisher>
+<publishername>National Research Council of Canada</publishername>
+</publisher>
+</source>
+<enhancement>
+<descriptorgroup>
+<descriptors controlled="y" type="CCV">
+<descriptor>
+<mainterm weight="b" candidate="n">Delignification</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Lignin</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Softwoods</mainterm>
+</descriptor>
+</descriptors>
+<descriptors controlled="n" type="CFL">
+<descriptor>
+<mainterm weight="b" candidate="n">Bond cleavages</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Complex mixture</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Coniferyl alcohols</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Lignin removal</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Lignin structure</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Lignosulphonates</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Middle lamella</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Sulphonic acids</mainterm>
+</descriptor>
+</descriptors>
+<descriptors controlled="y" type="CMH">
+<descriptor>
+<mainterm weight="b" candidate="n">Chemical bonds</mainterm>
+</descriptor>
+</descriptors>
+<descriptors controlled="y" type="PCV">
+<descriptor>
+<mainterm weight="b" candidate="n">Coniferyl Alcohol</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Delignification</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Lignins</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Softwoods</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Sulfur</mainterm>
+</descriptor>
+<descriptor>
+<mainterm weight="b" candidate="n">Wood</mainterm>
+</descriptor>
+</descriptors>
+</descriptorgroup>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>1600</classification>
+<classification>1605</classification>
+<classification>1503</classification>
+</classifications><classifications type="SUBJABBR"><classification>CHEM</classification><classification>CENG</classification></classifications>
+<classifications type="CPXCLASS">
+<classification> <classification-code>801.4</classification-code> <classification-description>Physical Chemistry</classification-description> </classification>
+<classification> <classification-code>811.1.1</classification-code> <classification-description>Papermaking Processes</classification-description> </classification>
+<classification> <classification-code>811.2</classification-code> <classification-description>Wood and Wood Products</classification-description> </classification>
+<classification> <classification-code>815.1.1</classification-code> <classification-description>Organic Polymers</classification-description> </classification>
+</classifications>
+<classifications type="FLXCLASS">
+<classification> <classification-code>902</classification-code> <classification-description>FLUIDEX; Related Topics</classification-description> </classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</item></xocs:item></xocs:doc>

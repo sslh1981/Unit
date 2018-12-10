@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xocs:doc content-type="Abstract" dbname="scopusbase" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd xocs-ani513.xsd" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:ce="http://www.elsevier.com/xml/ani/common" xmlns:ait="http://www.elsevier.com/xml/ani/ait" xmlns:cto="http://www.elsevier.com/xml/cto/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><xocs:meta>
+    <xocs:eid>2-s2.0-0001534204</xocs:eid>
+    <xocs:oeid>2-s1.0-49J3-TJJ0-TWC1-C0H3-00000-00</xocs:oeid>
+    <xocs:online-status>available</xocs:online-status>
+    <xocs:pui>622092965</xocs:pui>
+    <xocs:sdfullavail>0</xocs:sdfullavail>
+    <xocs:issn/>
+    <xocs:volume/>
+    <xocs:issue/>
+    <xocs:author-surname>Grimes</xocs:author-surname>
+    <xocs:author-fi>S</xocs:author-fi>
+    <xocs:firstpage>173</xocs:firstpage>
+    <xocs:lastpage>193</xocs:lastpage>
+    <xocs:sort-year>2015</xocs:sort-year>
+    <xocs:sort-yyyymm>201508</xocs:sort-yyyymm>
+    <xocs:pub-year>2015</xocs:pub-year>
+    <xocs:timestamp yyyymmdd="20180515">2018-05-15T12:28:58.80062Z</xocs:timestamp>
+    <xocs:orig-load-date yyyymmdd="20120226">2012-02-26</xocs:orig-load-date>
+    <xocs:datesort>20150817</xocs:datesort>
+    <xocs:indexeddate epoch="1330260270">2012-02-26T12:44:30.000001Z</xocs:indexeddate>
+    <xocs:absavail>0</xocs:absavail>
+    <xocs:suppressdummy>no</xocs:suppressdummy>
+    <xocs:srctype>b</xocs:srctype>
+    <xocs:subjareas><xocs:subjarea>ECON</xocs:subjarea><xocs:subjarea>BUSI</xocs:subjarea></xocs:subjareas>
+    <xocs:srctitle>Social Polarization in Post Industrial Metropolises</xocs:srctitle>
+    <xocs:countries><xocs:country>Ireland</xocs:country></xocs:countries>
+    <xocs:languages><xocs:language>English</xocs:language></xocs:languages>
+    <xocs:prefnameauids><xocs:prefnameauid>Grimes, S.#7103322024</xocs:prefnameauid></xocs:prefnameauids>
+    <cto:doctype>ch</cto:doctype>
+    <cto:group-id>0001534204</cto:group-id>
+    <cto:unique-author seq="1"><cto:auth-initials>S.</cto:auth-initials><cto:auth-indexed-name>Grimes S.</cto:auth-indexed-name><cto:auth-surname>Grimes</cto:auth-surname><cto:auth-id>7103322024</cto:auth-id></cto:unique-author>
+    <cto:unique-auth-count>1</cto:unique-auth-count>
+  </xocs:meta><xocs:item><item> <ait:process-info> <ait:date-delivered day="15" month="05" timestamp="2018-05-15T05:00:35.000035-04:00" year="2018"/> <ait:date-sort day="17" month="08" year="2015"/> <ait:status stage="S300" state="update" type="core"/> </ait:process-info> <bibrecord> <item-info> <copyright type="Elsevier">Copyright 2018 Elsevier B.V., All rights reserved.</copyright> <itemidlist> <itemid idtype="PUI">622092965</itemid> <itemid idtype="CAR-ID">910587298</itemid> <itemid idtype="SNBOOK">2018062715</itemid> <itemid idtype="TPB-ID">20182000056229</itemid> <itemid idtype="VTW-CAR-ID">20181000213070</itemid> <itemid idtype="SCP">0001534204</itemid> <itemid idtype="SGR">0001534204</itemid> </itemidlist> <history> <date-created day="14" month="05" timestamp="BST 16:43:29" year="2018"/> </history> <dbcollection>SNBOOK</dbcollection> <dbcollection>Scopusbase</dbcollection> </item-info> <head> <citation-info> <citation-type code="ch"/> <citation-language xml:lang="eng" language="English"/> </citation-info> <citation-title> <titletext original="y" xml:lang="eng" language="English">Economic change, immigration, and social polarization in Sydney</titletext> </citation-title> <author-group> <author auid="7103322024" seq="1" type="auth"> <ce:initials>S.</ce:initials> <ce:indexed-name>Grimes S.</ce:indexed-name> <ce:surname>Grimes</ce:surname> <ce:given-name>Seamus</ce:given-name> <preferred-name> <ce:initials>S.</ce:initials> <ce:indexed-name>Grimes S.</ce:indexed-name> <ce:surname>Grimes</ce:surname> <ce:given-name>Seamus</ce:given-name> </preferred-name> </author> <affiliation afid="60008539" country="irl" dptid="100250960"><organization>Department of Geography</organization><organization>University College</organization><city>Galway</city><affiliation-id afid="60008539" dptid="100250960"/><country>Ireland</country></affiliation> </author-group> <correspondence> <person> <ce:initials>S.</ce:initials> <ce:indexed-name>Grimes S.</ce:indexed-name> <ce:surname>Grimes</ce:surname> <ce:given-name>Seamus</ce:given-name> </person> <affiliation country="irl"><organization>Department of Geography</organization><organization>University College</organization><city>Galway</city><country>Ireland</country></affiliation> </correspondence> <source country="usa" srcid="21100859059" type="b"> <sourcetitle>Social Polarization in Post-Industrial Metropolises</sourcetitle> <sourcetitle-abbrev>Soc. Polariz. in Post-Ind. Metrop.</sourcetitle-abbrev> <translated-sourcetitle xml:lang="eng"/> <isbn length="13" level="volume" type="electronic">9783110878394</isbn> <isbn length="13" level="volume" type="print">9783110137286</isbn> <volisspag> <pagerange first="173" last="193"/> </volisspag> <publicationyear first="2015"/> <publicationdate> <year>2015</year> <month>08</month> <day>17</day> <date-text xfab-added="true">17 August 2015</date-text></publicationdate> <website> <ce:e-address type="email">https://www.degruyter.com/view/product/3709</ce:e-address> </website> <publisher> <publishername>Walter de Gruyter GmbH</publishername> </publisher> </source> <enhancement> <classificationgroup><classifications type="ASJC"> <classification>2000</classification> <classification>1400</classification> </classifications><classifications type="SUBJABBR"><classification>ECON</classification><classification>BUSI</classification></classifications></classificationgroup> </enhancement> </head> </bibrecord> </item></xocs:item></xocs:doc>
